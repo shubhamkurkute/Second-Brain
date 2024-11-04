@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build Skills.md",
-                "mode": "preview",
+                "file": "Python/FastAPI/Dependencies.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build Skills"
+              "title": "Dependencies"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build Skills.md",
+                "file": "Python/FastAPI/Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Build Skills"
+              "title": "Backlinks for Dependencies"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Build Skills.md",
+                "file": "Python/FastAPI/Dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Build Skills"
+              "title": "Outgoing links from Dependencies"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Build Skills.md"
+                "file": "Python/FastAPI/Dependencies.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Build Skills"
+              "title": "Outline of Dependencies"
             }
           },
           {
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +190,12 @@
   },
   "active": "8c7a651cd637f805",
   "lastOpenFiles": [
+    "Python/FastAPI/Example.md",
+    "Python/FastAPI/Dependencies.md",
+    "Python/FastAPI/Introduction.md",
+    "Build Skills.md",
+    "Python/FastAPI",
+    "Python/Flask",
     "Networking and OS",
     "DSA",
     "SQL",
@@ -199,7 +205,6 @@
     "AI development",
     "Python",
     "Prompt Engineering/ChatGPT.md",
-    "Build Skills.md",
     "Prompt Engineering/Best Practices.md",
     "Prompt Engineering/AI terms.md",
     "Prompt Engineering/Introduction.md",
@@ -207,7 +212,6 @@
     "Prompt Engineering/Methods of Prompt Engineering.md",
     "Assets/Pasted image 20241009160951.png",
     "Assets/Pasted image 20241009161804.png",
-    "Assets",
     "Prompt Engineering/Contents.md",
     "Aws/Contents.md",
     "Aws/Creating a user group and user for root account..md",

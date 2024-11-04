@@ -1,5 +1,5 @@
 
-1.  [[Introduction]]
+1.  [[Prompt Engineering/Introduction]]
 2.  [[Linguistics]]
 3. [[ChatGPT]]
 4. [[Best Practices]]
