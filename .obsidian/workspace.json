@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Introduction to Docker.md",
-                "mode": "source",
+                "file": "Prompt Engineering/ChatGPT.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Docker"
+              "title": "ChatGPT"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Introduction to Docker.md",
+                "file": "Prompt Engineering/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction to Docker"
+              "title": "Backlinks for ChatGPT"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Introduction to Docker.md",
+                "file": "Prompt Engineering/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction to Docker"
+              "title": "Outgoing links from ChatGPT"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Introduction to Docker.md"
+                "file": "Prompt Engineering/ChatGPT.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction to Docker"
+              "title": "Outline of ChatGPT"
             }
           },
           {
@@ -173,8 +173,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36cd6b1cd4bc686a",
+  "active": "eaf4f3fb8ecfcc9e",
   "lastOpenFiles": [
+    "Prompt Engineering/Best Practices.md",
+    "Prompt Engineering/AI terms.md",
+    "Prompt Engineering/ChatGPT.md",
+    "Prompt Engineering/Introduction.md",
+    "Prompt Engineering/Linguistics.md",
+    "Prompt Engineering/Methods of Prompt Engineering.md",
+    "Assets/Pasted image 20241009160951.png",
+    "Assets/Pasted image 20241009161804.png",
+    "Assets",
+    "Prompt Engineering/Contents.md",
+    "Aws/Contents.md",
+    "Aws/Creating a user group and user for root account..md",
+    "Docker/Introduction to Docker.md",
     "Docker/Namespaces.md",
     "Docker/Union file Systems.md",
     "Aws/AWS Workshop/Adding access key and secret key to folder.md",
@@ -183,9 +196,6 @@
     "Docker/Docker and OCI.md",
     "Docker/Contents.md",
     "Docker/C groups.md",
-    "Aws/Contents.md",
-    "Aws/AWS Workshop/Building a serverless application on AWS..md",
-    "Aws/Creating a user group and user for root account..md",
-    "Docker/Introduction to Docker.md"
+    "Aws/AWS Workshop/Building a serverless application on AWS..md"
   ]
 }
