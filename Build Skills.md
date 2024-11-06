@@ -16,4 +16,6 @@
 - [ ] **SQL**
 - [ ] **Cyber Security and Ethical Hacking**
 - [ ] **Networking**
+- [ ] **Django**
+- [ ] 
 
