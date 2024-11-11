@@ -8,7 +8,8 @@
 
 ### Skills
 
-- [ ] **Python**
+- [x] **Python** 
+- [ ] **AWS : Solution Architect**
 - [ ] **Backend All Concepts**
 - [ ] **AI Development**
 - [ ] **Stock Market Trading**
@@ -16,6 +17,6 @@
 - [ ] **SQL**
 - [ ] **Cyber Security and Ethical Hacking**
 - [ ] **Networking**
-- [ ] **Django**
-- [ ] 
+- [ ] **Django** [[Django Roadmap]]
+- [ ] **Flask** [[Flask Tutorial]]
 

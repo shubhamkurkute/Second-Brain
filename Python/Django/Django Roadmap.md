@@ -1,9 +1,9 @@
 
 ==Link for Youtube playlist:==  [Complete Django Course for 2023](https://www.youtube.com/watch?v=Mezody4yiXw&list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk)
 
-#### Above course contains 21 total videos each video for a day starting December 1st. Some videos are skipped because those are project videos practice later after completing this course.
+#### *Above course contains 21 total videos each video for a day starting December 1st. Some videos are skipped because those are project videos practice later after completing this course.*
 
-- [ ] **Day 1: Django Setup**
+- [x] **Day 1: Django Setup**
 - [ ] **Day 2: First App in Django**
 - [ ] **Day 3: Views and URLs**
 - [ ] **Day 4: Templates Engine**
