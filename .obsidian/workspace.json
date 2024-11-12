@@ -11,13 +11,14 @@
             "id": "55be2be91496560f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "DSA/DSA in C++.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "DSA in C++"
             }
           }
         ]
@@ -172,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55be2be91496560f",
+  "active": "36cd6b1cd4bc686a",
   "lastOpenFiles": [
+    "DSA/DSA in C++.md",
     "Books List..md",
     "Aws/AWS - Solution Architect/AWS Lambda..md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals..md",
@@ -210,7 +212,6 @@
     "Docker/Union file Systems.md",
     "Aws/AWS Workshop/Adding access key and secret key to folder.md",
     "Docker/Docker Commands and Build.md",
-    "Docker/Docker and OCI.md",
-    "Docker/Contents.md"
+    "Docker/Docker and OCI.md"
   ]
 }
