@@ -1,6 +1,6 @@
 
 ### Trading 
-
+- [ ] Alexander Elder: The New Trading For Living
 
 
 
