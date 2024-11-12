@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/AWS - Solution Architect/IAM and Aws CLI.md",
+                "file": "Aws/AWS - Solution Architect/EC2 Fundamentals..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM and Aws CLI"
+              "title": "EC2 Fundamentals."
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "55be2be91496560f",
   "lastOpenFiles": [
-    "Aws/AWS - Solution Architect/EC2 Fundamentals..md",
     "Aws/AWS - Solution Architect/IAM and Aws CLI.md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals..md",
     "Aws/AWS - Solution Architect/AWS Lambda..md",
     "Build Skills.md",
     "Books List..md",
