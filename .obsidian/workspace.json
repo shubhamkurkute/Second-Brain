@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e8184ce99ed3b0fb",
+        "id": "61835daf4a25cc42",
         "type": "tabs",
         "children": [
           {
-            "id": "55be2be91496560f",
+            "id": "b69ab3896b66f4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA in C++.md",
+                "file": "Aws/AWS - Solution Architect/EC2 Fundamentals/Security Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA in C++"
+              "title": "Security Groups"
             }
           }
         ]
@@ -173,15 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36cd6b1cd4bc686a",
+  "active": "b69ab3896b66f4fa",
   "lastOpenFiles": [
-    "DSA/DSA in C++.md",
-    "Books List..md",
-    "Aws/AWS - Solution Architect/AWS Lambda..md",
-    "Aws/AWS - Solution Architect/EC2 Fundamentals..md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Types.md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Fundamentals..md",
+    "Aws/AWS - Solution Architect/Contents.md",
+    "Aws/AWS - Solution Architect/AWS Commands.md",
     "Aws/AWS - Solution Architect/IAM and Aws CLI.md",
     "Aws/Contents.md",
     "Aws/Creating a user group and user for root account..md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/Security Groups.md",
+    "Aws/AWS Workshop/Adding access key and secret key to folder.md",
+    "Pasted image 20241113234936.png",
+    "Resources/Pasted image 20241113234952.png",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals",
+    "Aws/AWS - Solution Architect/AWS Lambda..md",
+    "DSA/DSA in C++.md",
+    "Books List..md",
     "Build Skills.md",
     "Python/Flask/Flask Tutorial.md",
     "Python/Django/Django Roadmap.md",
@@ -198,7 +207,6 @@
     "Cybersecurity and Ethical Hacking",
     "Valuable Assets",
     "Backend",
-    "AI development",
     "Prompt Engineering/Best Practices.md",
     "Prompt Engineering/AI terms.md",
     "Prompt Engineering/Introduction.md",
@@ -206,12 +214,6 @@
     "Prompt Engineering/Methods of Prompt Engineering.md",
     "Resources/Pasted image 20241009160951.png",
     "Resources/Pasted image 20241009161804.png",
-    "Prompt Engineering/Contents.md",
-    "Docker/Introduction to Docker.md",
-    "Docker/Namespaces.md",
-    "Docker/Union file Systems.md",
-    "Aws/AWS Workshop/Adding access key and secret key to folder.md",
-    "Docker/Docker Commands and Build.md",
-    "Docker/Docker and OCI.md"
+    "Prompt Engineering/Contents.md"
   ]
 }
