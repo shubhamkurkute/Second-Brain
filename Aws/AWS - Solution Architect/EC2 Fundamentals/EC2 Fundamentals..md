@@ -18,7 +18,7 @@
 	- m5.2xlarge
 	- m = Instance class
 	- 5 = generation
-	- 2xlarge = size within
+	- 2xlarge = size of the instance i.e. more the size more the memory more the CPU on the instance.
 
 
 ## EC2 User Data

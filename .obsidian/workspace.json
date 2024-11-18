@@ -173,17 +173,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69ab3896b66f4fa",
+  "active": "36cd6b1cd4bc686a",
   "lastOpenFiles": [
-    "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
+    "Resources/Pasted image 20241118234616.png",
+    "Resources/Pasted image 20241118233350.png",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/Security Groups.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Types.md",
+    "Resources/Pasted image 20241118233258.png",
+    "Resources/Pasted image 20241118233242.png",
+    "Resources/Pasted image 20241118233224.png",
+    "Resources/Pasted image 20241118233159.png",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Fundamentals..md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/Creating a EC2 Instance.md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
+    "Resources/Pasted image 20241113235443.png",
     "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/AWS Commands.md",
     "Aws/AWS - Solution Architect/IAM and Aws CLI.md",
     "Aws/Contents.md",
     "Aws/Creating a user group and user for root account..md",
-    "Aws/AWS - Solution Architect/EC2 Fundamentals/Security Groups.md",
     "Aws/AWS Workshop/Adding access key and secret key to folder.md",
     "Pasted image 20241113234936.png",
     "Resources/Pasted image 20241113234952.png",
@@ -211,9 +219,6 @@
     "Prompt Engineering/AI terms.md",
     "Prompt Engineering/Introduction.md",
     "Prompt Engineering/Linguistics.md",
-    "Prompt Engineering/Methods of Prompt Engineering.md",
-    "Resources/Pasted image 20241009160951.png",
-    "Resources/Pasted image 20241009161804.png",
-    "Prompt Engineering/Contents.md"
+    "Resources/Pasted image 20241009160951.png"
   ]
 }
