@@ -175,6 +175,9 @@
   },
   "active": "b69ab3896b66f4fa",
   "lastOpenFiles": [
+    "Python/Concurrency vs Multithreading vs Parallelism.md",
+    "Concurrency.md",
+    "Aws/AWS - Solution Architect/EC2 Fundamentals/SSH.md",
     "Python/FastAPI/Introduction.md",
     "Python/FastAPI/Example.md",
     "Python/FastAPI/Dependencies.md",
@@ -183,7 +186,6 @@
     "Resources/Pasted image 20241121234312.png",
     "Python/Django/Django Roadmap.md",
     "Build Skills.md",
-    "Aws/AWS - Solution Architect/EC2 Fundamentals/SSH.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
     "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/AWS Commands.md",
@@ -218,7 +220,6 @@
     "Valuable Assets",
     "Backend",
     "Prompt Engineering/Best Practices.md",
-    "Prompt Engineering/AI terms.md",
-    "Prompt Engineering/Introduction.md"
+    "Prompt Engineering/AI terms.md"
   ]
 }
