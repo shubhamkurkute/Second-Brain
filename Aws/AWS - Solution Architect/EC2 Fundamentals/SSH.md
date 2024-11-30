@@ -30,3 +30,10 @@
 	1. Go to file and right click -> properties -> Security -> advanced
 	2. Disable inheritance then click Add.
 	3.  Select principal your name and then apply.
+
+
+## EC2 Roles
+
+- Don't use aws configure command as any one can get our credentials from this instance
+- Never enter your aws access key and secret key into EC2 instance.
+- We can use roles to allow aws services into the instance rather than configuring aws.
