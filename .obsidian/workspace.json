@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Hibernate.md",
+                "file": "Aws/AWS - Solution Architect/EC2 Solution Architect/Elastic Network Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Hibernate"
+              "title": "Elastic Network Interfaces"
             }
           }
         ]
@@ -175,18 +175,19 @@
   },
   "active": "116f9a8d697d8208",
   "lastOpenFiles": [
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/Elastic Network Interfaces.md",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Hibernate.md",
-    "Pasted image 20241202231856.png",
-    "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Placement Groups.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Solution Architect Contents.md",
+    "Aws/AWS - Solution Architect/Contents.md",
+    "Aws/AWS - Solution Architect/AWS Commands.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/Private vs Public vs Elastic IP.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/Public vs Private vs Elastic IP.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Hibernate.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/Elastic Network Interfaces.md",
+    "Pasted image 20241202231856.png",
     "Pasted image 20241202231601.png",
     "Pasted image 20241202231113.png",
     "Pasted image 20241202231005.png",
-    "Private vs Public vs Elastic IP.md",
     "Pasted image 20241202230206.png",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Solution Architect Contents.md",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/Public vs Private vs Elastic IP.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Purchasing Options.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
@@ -197,7 +198,6 @@
     "Aws/AWS - Solution Architect/EC2 Fundamentals/SSH.md",
     "Books List..md",
     "Resources/Pasted image 20241201014317.png",
-    "Aws/AWS - Solution Architect/AWS Commands.md",
     "Python/Concurrency vs Multithreading vs Parallelism.md",
     "Concurrency.md",
     "Python/FastAPI/Introduction.md",
