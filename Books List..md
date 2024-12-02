@@ -23,4 +23,4 @@
 ### Coding
 
 - [ ] **Python**
-- [ ] 
+- [ ] LLMs and GenAI
