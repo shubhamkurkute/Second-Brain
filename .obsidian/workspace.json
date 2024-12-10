@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Store.md",
+                "file": "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Volume Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Instance Store"
+              "title": "EBS Volume Types"
             }
           }
         ]
@@ -175,16 +175,17 @@
   },
   "active": "116f9a8d697d8208",
   "lastOpenFiles": [
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/AMI Overview.md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Store.md",
-    "Pasted image 20241207000554.png",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Snapshots.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Volume Types.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Store.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS (Elastic Block Store).md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/AMI Overview.md",
+    "Pasted image 20241207000554.png",
     "Pasted image 20241206233803.png",
     "Pasted image 20241206233747.png",
     "Pasted image 20241206233152.png",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS (Elastic Block Store).md",
     "Pasted image 20241205233843.png",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
     "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Solution Architect Contents.md",
@@ -212,7 +213,6 @@
     "Concurrency.md",
     "Python/FastAPI/Introduction.md",
     "Python/FastAPI/Example.md",
-    "Python/FastAPI/Dependencies.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals",
     "Python/Django",
     "Python/FastAPI",
