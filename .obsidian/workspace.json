@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9b70a1b7efb9ff",
+        "id": "e17d4c5eb77be421",
         "type": "tabs",
         "children": [
           {
-            "id": "8ad98d72dab27aa7",
+            "id": "116f9a8d697d8208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EC2 Instance Storage Contents"
+            }
+          },
+          {
+            "id": "2611446b4adcf577",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Pasted image 20241202230206.png"
+                "file": "Resources/Pasted image 20241213001311.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20241202230206"
+              "title": "Pasted image 20241213001311"
             }
           },
           {
-            "id": "cbe43ad7f42df5da",
+            "id": "d85099a7d3fac82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +47,7 @@
               "title": "EFS - Performance And Storage Classes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,39 +199,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbe43ad7f42df5da",
+  "active": "116f9a8d697d8208",
   "lastOpenFiles": [
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Volume Types.md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EFS - Performance And Storage Classes.md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Snapshots.md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS (Elastic Block Store).md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Multi-Attach - io1 or io2 family.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/Amazon EFS - Elastic File System.md",
-    "Pasted image 20241212180655.png",
-    "Aws/AWS - Solution Architect/Contents.md",
-    "Aws/AWS - Solution Architect/IAM and Aws CLI.md",
-    "Aws/AWS - Solution Architect/AWS Commands.md",
-    "Resources/Pasted image 20241202230206.png",
-    "Resources/Pasted image 20241202231005.png",
-    "Concurrency.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS (Elastic Block Store).md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS vs EFS.md",
+    "Resources/Pasted image 20241213001311.png",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EFS - Performance And Storage Classes.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Hibernate.md",
+    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Solution Architect Contents.md",
+    "Resources/Pasted image 20241212180655.png",
+    "Resources/Pasted image 20241213001258.png",
+    "Resources/Pasted image 20241213000332.png",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Volume Types.md",
     "Resources/Pasted image 20241212173552.png",
     "Resources/Pasted image 20241212172256.png",
     "Resources/Pasted image 20241212172237.png",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Store.md",
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/AMI Overview.md",
     "Resources/Pasted image 20241207000554.png",
     "Resources/Pasted image 20241206233803.png",
     "Resources/Pasted image 20241206233747.png",
-    "Resources/Pasted image 20241206233152.png",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Multi-Attach - io1 or io2 family.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Snapshots.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Store.md",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/AMI Overview.md",
+    "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Solution Architect Contents.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Elastic Network Interfaces.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Placement Groups.md",
+    "Aws/AWS - Solution Architect/AWS Commands.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Private vs Public vs Elastic IP.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Public vs Private vs Elastic IP.md",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Hibernate.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Purchasing Options.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Types.md",

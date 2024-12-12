@@ -21,3 +21,5 @@
 	- Standard: Multi-AZ, great for prod
 	- One Zone: One AZ, great for dev, backup enabled by default, compatible with IA (EFS One Zone IA)
 - Over 90% in cost savings.
+
+![[Pasted image 20241213000332.png]]
