@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
+                "file": "Aws/AWS - Solution Architect/High Availability and Scalability ELB and ASG/Scalability and Availability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Instance Storage Contents"
+              "title": "Scalability and Availability"
             }
           },
           {
@@ -201,8 +201,12 @@
   },
   "active": "116f9a8d697d8208",
   "lastOpenFiles": [
-    "Aws/AWS - Solution Architect/EC2 Instance Storage/Amazon EFS - Elastic File System.md",
+    "Aws/AWS - Solution Architect/High Availability and Scalability ELB and ASG/High Availability and Scalability Storage Contents.md",
+    "Aws/AWS - Solution Architect/High Availability and Scalability ELB and ASG/Scalability and Availability.md",
+    "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Storage Contents.md",
+    "Aws/AWS - Solution Architect/High Availability and Scalability ELB and ASG",
+    "Aws/AWS - Solution Architect/EC2 Instance Storage/Amazon EFS - Elastic File System.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS (Elastic Block Store).md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS vs EFS.md",
     "Resources/Pasted image 20241213001311.png",
@@ -223,7 +227,6 @@
     "Aws/AWS - Solution Architect/EC2 Instance Storage/EBS Snapshots.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/EC2 Instance Store.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage/AMI Overview.md",
-    "Aws/AWS - Solution Architect/Contents.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Contents - EC2 Fundamentals.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Elastic Network Interfaces.md",
     "Aws/AWS - Solution Architect/EC2 Instance Storage",
@@ -237,14 +240,12 @@
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Security Groups.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/Creating a EC2 Instance.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals/EC2 Fundamentals..md",
-    "Aws/AWS - Solution Architect/EC2 Fundamentals/SSH.md",
     "Aws/AWS - Solution Architect/EC2 Fundamentals",
     "Python/Django",
     "Python/FastAPI",
     "Python/Flask",
     "Networking and OS",
     "DSA",
-    "SQL",
-    "Cybersecurity and Ethical Hacking"
+    "SQL"
   ]
 }

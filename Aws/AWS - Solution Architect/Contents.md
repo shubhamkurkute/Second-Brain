@@ -4,4 +4,4 @@
 3. [[AWS Commands]]
 4. [[EC2 Solution Architect Contents]]
 5. [[EC2 Instance Storage Contents]]
-6. 
+6. [[High Availability and Scalability Storage Contents]]
