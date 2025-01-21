@@ -1,0 +1,11 @@
+
+- [ ] Support and Resistance
+- [ ] Trendlines
+- [ ] Supply and Demand Zones
+- [ ] Candlestick Patterns
+- [ ] Chart Patterns
+- [ ] Indicators
+- [ ] Multi-Time frame analysis
+- [ ] Volume and OI
+- [ ] Liquidity
+- [ ] Smart money concepts

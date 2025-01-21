@@ -1,6 +1,7 @@
 
 ### Trading 
 - [ ] Alexander Elder: The New Trading For Living
+- [ ] Price Action Trading: Sunil Gurjar
 
 
 
@@ -16,6 +17,7 @@
 - [x] **Think and Grow Rich**
 - [ ] **Ikigai**
 - [ ] Do Epic Shit
+- [ ] How to control Emotions
 
 
 

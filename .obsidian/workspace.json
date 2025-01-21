@@ -13,41 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build Skills.md",
+                "file": "Python/Django/Django Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build Skills"
+              "title": "Django Roadmap"
             }
           },
           {
-            "id": "2611446b4adcf577",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Pasted image 20241213001311.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241213001311"
-            }
-          },
-          {
-            "id": "d85099a7d3fac82e",
+            "id": "63c1763b681ef37f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/AWS - Solution Architect/EC2 Instance Storage/EFS - Performance And Storage Classes.md",
+                "file": "Books List..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EFS - Performance And Storage Classes"
+              "title": "Books List."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,12 +188,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "116f9a8d697d8208",
+  "active": "63c1763b681ef37f",
   "lastOpenFiles": [
+    "Stock Market/Stock Market Roadmap.md",
+    "Python/Django/Django Roadmap.md",
+    "Stock Market",
+    "Build Skills.md",
     "Books List..md",
     "Python/Flask/Flask Tutorial.md",
     "Python/Concurrency vs Multithreading vs Parallelism.md",
-    "Python/Django/Django Roadmap.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Elastic Network Interfaces.md",
     "DSA/DSA in C++.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/EC2 Solution Architect Contents.md",
@@ -237,15 +229,12 @@
     "Aws/AWS - Solution Architect/EC2 Instance Storage",
     "Aws/AWS - Solution Architect/EC2 Solution Architect/Placement Groups.md",
     "Aws/AWS - Solution Architect/AWS Commands.md",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/Private vs Public vs Elastic IP.md",
-    "Aws/AWS - Solution Architect/EC2 Solution Architect/Public vs Private vs Elastic IP.md",
     "Aws/AWS - Solution Architect/EC2 Solution Architect",
     "Aws/AWS - Solution Architect/EC2 Fundamentals",
     "Python/Django",
     "Python/FastAPI",
     "Python/Flask",
     "Networking and OS",
-    "DSA",
-    "SQL"
+    "DSA"
   ]
 }
